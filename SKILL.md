@@ -3,8 +3,9 @@ name: ecological-web-analysis
 description: Reveal hidden connections in complex systems and trace how disturbances ripple through webs of relationship, uncovering unintended consequences and systemic effects.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3869
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ecological-web-analysis
 - writing
